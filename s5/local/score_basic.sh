@@ -1,0 +1,1 @@
+../../../timit/s5/local/score_basic.sh
